@@ -136,6 +136,29 @@ pipeline.run("cctv_clip.mp4", "events.jsonl")
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+## 🎥 Demo Video
+
+Watch the complete project demonstration here:
+
+[▶️ StoreMind AI Demo Video](https://drive.google.com/file/d/17FG0DQ5SeKIQWjBvlc0zCBrLlLSAEcNx/view?usp=sharing)
+
+This demo showcases:
+
+- YOLOv8-based CCTV detection and tracking pipeline
+- Real-time event generation and ingestion
+- Store analytics and business intelligence APIs
+- Live dashboard with Traffic Analytics
+- Heatmap Visualization
+- Conversion Funnel Analysis
+- Event Stream Monitoring
+- Anomaly Detection
+- Multi-Store Intelligence Dashboard
+- Health Monitoring APIs
+
+The video demonstrates the complete end-to-end workflow from CCTV footage processing to actionable retail business insights.
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 ## 🚀 Setup in 5 Commands
 
 ```bash
