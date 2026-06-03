@@ -196,7 +196,7 @@ View structured retail events generated in real time from CCTV-derived customer 
 
 Monitor platform health, feed freshness, event ingestion status, and system reliability.
 
-![Health API]<img width="1916" height="906" alt="image" src="https://github.com/user-attachments/assets/5e36df8d-6e2c-4350-8ec8-a6852b581821" />
+<img width="1916" height="906" alt="image" src="https://github.com/user-attachments/assets/5e36df8d-6e2c-4350-8ec8-a6852b581821" />
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
