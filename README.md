@@ -136,6 +136,71 @@ pipeline.run("cctv_clip.mp4", "events.jsonl")
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+## 📸 Project Screenshots
+
+### 🏠 Dashboard Overview
+
+Real-time retail KPIs including visitor count, conversion rate, dwell time, queue depth, abandonment rate, and AI-generated business insights.
+
+<img width="1919" height="903" alt="image" src="https://github.com/user-attachments/assets/2bb73d1d-9bf5-46d7-8237-0157250ddb26" />
+
+
+---
+
+### 📈 Traffic Analytics
+
+Monitor customer traffic patterns, visitor trends, and store activity in real time.
+
+<img width="1919" height="928" alt="image" src="https://github.com/user-attachments/assets/526046c0-816c-4a9e-9c9a-5171a2db4d6b" />
+
+
+---
+
+### 🔥 Zone Heatmap Analytics
+
+Visualize customer engagement across different store zones and identify high-performing areas within the store.
+
+<img width="1918" height="908" alt="image" src="https://github.com/user-attachments/assets/08f4b4f9-1c18-4592-932d-e2a3fa8428bf" />
+
+
+---
+
+### 🎯 Conversion Funnel
+
+Track customer progression from store entry to purchase and identify conversion drop-off points.
+
+<img width="1919" height="914" alt="image" src="https://github.com/user-attachments/assets/5d696ccb-264c-494f-9c8b-d2a754c3ba5c" />
+
+
+---
+
+### 🚨 Anomaly Detection
+
+Automatically detect queue spikes, low-conversion events, traffic abnormalities, and operational bottlenecks.
+
+<img width="1919" height="904" alt="image" src="https://github.com/user-attachments/assets/133dedd2-db63-4a59-b7e2-44dcecd548a3" />
+
+
+---
+
+### 📡 Live Event Stream
+
+View structured retail events generated in real time from CCTV-derived customer interactions.
+
+<img width="1919" height="907" alt="image" src="https://github.com/user-attachments/assets/433b0d43-0405-45d9-acd1-e7320aa24fe1" />
+
+
+---
+
+### ❤️ Health Monitoring API
+
+Monitor platform health, feed freshness, event ingestion status, and system reliability.
+
+![Health API]<img width="1916" height="906" alt="image" src="https://github.com/user-attachments/assets/5e36df8d-6e2c-4350-8ec8-a6852b581821" />
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 ## 🎥 Demo Video
 
 Watch the complete project demonstration here:
