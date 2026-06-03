@@ -1,0 +1,37 @@
+{
+  "store_id": "STORE_BLR_002",
+  "store_name": "Apex Retail Bangalore - Koramangala",
+  "open_hours": { "start": "10:00", "end": "22:00" },
+  "cameras": {
+    "CAM_ENTRY_01": {
+      "location": "Entry/Exit threshold",
+      "resolution": "1920x1080",
+      "fps": 15,
+      "entry_threshold_y": 540,
+      "zones": {
+        "ENTRY_AREA": [[0, 400], [1920, 400], [1920, 680], [0, 680]]
+      }
+    },
+    "CAM_FLOOR_01": {
+      "location": "Main floor zone coverage",
+      "resolution": "1920x1080",
+      "fps": 15,
+      "zones": {
+        "SKINCARE":  [[50,  100], [600, 100], [600, 500], [50,  500]],
+        "MAKEUP":    [[650, 100], [1200,100], [1200,500], [650, 500]],
+        "HAIRCARE":  [[1250,100], [1870,100], [1870,500], [1250,500]],
+        "WELLNESS":  [[50,  550], [900, 550], [900, 950], [50,  950]],
+        "FRAGRANCE": [[950, 550], [1870,550], [1870,950], [950, 950]]
+      }
+    },
+    "CAM_BILLING_01": {
+      "location": "Billing counter area",
+      "resolution": "1920x1080",
+      "fps": 15,
+      "zones": {
+        "BILLING":      [[100, 200], [1820,200], [1820,700], [100, 700]],
+        "QUEUE_WAIT":   [[100, 700], [1820,700], [1820,980], [100, 980]]
+      }
+    }
+  }
+}

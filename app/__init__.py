@@ -1,0 +1,1 @@
+# StoreMind Intelligence API
