@@ -22,9 +22,15 @@
 </p>
 
 <!-- Animated typing -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=3A7FD5&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=CCTV+Footage+→+Real-Time+Business+Intelligence;YOLOv8+Detection+·+ByteTrack+·+Re-ID+Engine;FastAPI+·+Next.js+·+Docker+·+39+Tests+Passing" alt="Typing SVG"/>
-</a>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=3A7FD5&center=true&vCenter=true&repeat=true&width=700&lines=CCTV+Footage+to+Real-Time+Business+Intelligence;YOLOv8+Detection+%7C+ByteTrack+%7C+Re-ID+Engine;FastAPI+%7C+Next.js+%7C+Docker+%7C+39+Tests+Passing"
+    alt="Typing SVG"
+  />
+</p>
+
+
 
 <br/>
 
