@@ -228,7 +228,7 @@ The video demonstrates the complete end-to-end workflow from CCTV footage proces
 
 ```bash
 # 1 — Clone
-git clone https://github.com/YOUR_USERNAME/store-intelligence.git
+git clone https://github.com/CoderGyanaa/store-intelligence.git
 cd store-intelligence
 
 # 2 — Python environment
